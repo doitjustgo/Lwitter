@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "*/login",
+      "destination": "https://golwitter.vercel.app/login"
+    },
+    {
+      "source": "*/createaccount",
+      "destination": "https://golwitter.vercel.app/createaccount"
+    }
+  ]
+}
