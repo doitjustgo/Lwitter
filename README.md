@@ -15,12 +15,13 @@
 　ㅇ 로그인을 하지 않고 메인화면 접속 시 
 ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/7881c8f1-070d-49be-837a-27dcfa7672ff)
 
-　ㅇ 타임라인 화면  
+　ㅇ 로그인 후 타임라인 화면  
   ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/c22aeed9-fe4e-4869-92a1-c5948de3c199)
 
 　ㅇ 회원가입 버튼 클릭 시  
 　　- 정보를 빈칸으로 작성하거나 이메일 형식이 틀린 경우 알림 메시지 출력  
-![image](https://github.com/doitjustgo/Lwitter/assets/24933367/d018f95a-01c7-48ee-aed3-f781bba01a11)
+![image](https://github.com/doitjustgo/Lwitter/assets/24933367/b150b4fb-da1d-4e14-b9b1-ff0a0ed4f7db)
 
-　ㅇ (모바일) 로그인 후 메인화면 접속 시   
+
+　ㅇ (모바일) 로그인 후 타임라인 화면
  ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/c98d9777-ce8a-4051-8530-c51f7553dc19)
