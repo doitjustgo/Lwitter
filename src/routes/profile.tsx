@@ -54,10 +54,6 @@ export default function Profile() {
       const url = await getDownloadURL(result.ref);
       setAvatar(url);
       await updateProfile(user, { photoURL: url });
-
-      /*  await updateDoc(collection(db, 'tweets'), {
-        avatarUrl: url,
-      }); */
     }
   };
 
