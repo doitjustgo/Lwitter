@@ -61,7 +61,6 @@ function App() {
   const [isLoading, setIsLoading] = useState(true);
   async function init() {
     await auth.authStateReady();
-    //wait for Firebase;
     setIsLoading(false);
   }
 
