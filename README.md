@@ -23,5 +23,5 @@
 ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/b150b4fb-da1d-4e14-b9b1-ff0a0ed4f7db)
 
 
-　ㅇ (모바일) 로그인 후 타임라인 화면
+　ㅇ (모바일) 로그인 후 타임라인 화면  
  ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/c98d9777-ce8a-4051-8530-c51f7553dc19)
