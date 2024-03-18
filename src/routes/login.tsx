@@ -72,8 +72,7 @@ export default function Login() {
           <span>아직 계정이 없으신가요? </span>
           <Link href="createaccount">회원가입</Link>
           <hr />
-          <p> 테스트ID : (이메일) test@naver.com / (비밀번호)123123</p>
-          <p> 테스트ID2 : (이메일) test2@naver.com / (비밀번호)123123</p>
+          <p> 테스트ID : (이메일) test@gmail.com / (비밀번호)1q2w3e4r!</p>
         </Grid>
       </Grid>
     </Container>

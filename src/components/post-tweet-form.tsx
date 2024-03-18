@@ -89,7 +89,7 @@ export default function PostTweetForm() {
       }
 
       setValue('tweetText', '');
-      setValue('imageFile', '');
+      setPreviewImage('');
     } catch (e) {
       console.log('에러:', e);
     }
