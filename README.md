@@ -15,9 +15,6 @@
 　ㅇ 로그인을 하지 않고 메인화면 접속 시 
 ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/7881c8f1-070d-49be-837a-27dcfa7672ff)
 
-　ㅇ 로그인 후 메인화면 접속 시 
- ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/0c446dfa-4a7f-41cb-ad55-d9c186477163)
-
 　ㅇ 타임라인 화면  
   ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/c22aeed9-fe4e-4869-92a1-c5948de3c199)
 
