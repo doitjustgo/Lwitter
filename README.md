@@ -1,30 +1,21 @@
-# React + TypeScript + Vite
+** [Lwitter] - SNS 사이트**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ㅁ 개요   
+　ㅇ 홈페이지 주소 : https://golwitter.vercel.app/
+ 
+　ㅇ React를 기반으로 개발하였고, 회원정보, 게시글 정보 등은 별도 웹서버 구축 없이 클라우드서비스인 Firebase에 저장하였습니다.  
+　　- Firebase 자체 보안 기능으로 외부 해킹으로부터의 공격에 안전합니다. 홈페이지 운영자 역시, 회원의 비밀번호는 확인 불가능합니다. 
+ 
+　ㅇ 게시글 업로드, 확인 등은 회원가입 후 로그인을 해야만 가능하도록 만들었습니다.  
+　　- 현재 테스트 ID를 제공하고 있습니다.
+    
+　ㅇ 반응형 웹페이지로 개발하여 모바일에서도 홈페이지 이용이 가능합니다.
 
-Currently, two official plugins are available:
+ㅁ 화면 구성  
+　ㅇ 로그인을 하지 않고 메인화면 접속 시 
+![image](https://github.com/doitjustgo/Lwitter/assets/24933367/005229fd-dcbd-41ad-be56-07e7e867a64e)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+　ㅇ 로그인 후 메인화면 접속 시 
+ ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/cf07ec8c-e075-4952-ae6a-6523954621c6)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+　ㅇ 회원가입 버튼 클릭 시 
