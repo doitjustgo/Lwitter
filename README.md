@@ -22,7 +22,7 @@
   ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/c22aeed9-fe4e-4869-92a1-c5948de3c199)
 
 　ㅇ 회원가입 버튼 클릭 시  
-    - 정보를 빈칸으로 작성하거나 이메일 형식이 틀린 경우 알림 메시지 출력  
+　　- 정보를 빈칸으로 작성하거나 이메일 형식이 틀린 경우 알림 메시지 출력  
 ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/d018f95a-01c7-48ee-aed3-f781bba01a11)
 
 　ㅇ (모바일) 로그인 후 메인화면 접속 시   
