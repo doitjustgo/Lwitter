@@ -13,17 +13,17 @@
 
 ㅁ 화면 구성  
 　ㅇ 로그인을 하지 않고 메인화면 접속 시 
-![image](https://github.com/doitjustgo/Lwitter/assets/24933367/5bb0fd87-9615-4709-bdbb-49b441653a69)
+![image](https://github.com/doitjustgo/Lwitter/assets/24933367/7881c8f1-070d-49be-837a-27dcfa7672ff)
 
 　ㅇ 로그인 후 메인화면 접속 시 
- ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/cf8da3db-0023-4c50-8cd4-e569559e451e)
- 
-　ㅇ 타임라인 화면
-  ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/f433a5f3-0421-48ad-8fd7-e620fa2c1d13)
+ ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/0c446dfa-4a7f-41cb-ad55-d9c186477163)
+
+　ㅇ 타임라인 화면  
+  ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/c22aeed9-fe4e-4869-92a1-c5948de3c199)
 
 　ㅇ 회원가입 버튼 클릭 시 
-  - 정보를 빈칸으로 작성하거나 이메일 형식이 틀린 경우 알림 메시지 출력
+  - 정보를 빈칸으로 작성하거나 이메일 형식이 틀린 경우 알림 메시지 출력  
 ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/d018f95a-01c7-48ee-aed3-f781bba01a11)
 
-　ㅇ (모바일) 로그인 후 메인화면 접속 시 
+　ㅇ (모바일) 로그인 후 메인화면 접속 시   
  ![image](https://github.com/doitjustgo/Lwitter/assets/24933367/c98d9777-ce8a-4051-8530-c51f7553dc19)
